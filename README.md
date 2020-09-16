@@ -123,6 +123,8 @@ https://max-everyday.com/2020/06/swei-meatball/
 https://max-everyday.com/2020/04/swei-spring/
 
 其他字體：
+* 何某手寫體 Nani Font
+https://max-everyday.com/2020/09/nanifont/
 * 內海字體  Naikai Font
 https://max-everyday.com/2020/03/naikaifont/
 * 莫大毛筆字體 Bakudai Font
